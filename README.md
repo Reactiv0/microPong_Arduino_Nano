@@ -21,11 +21,6 @@
 - **firmware** - прошивки для Arduino
 - **schemes** - схемы подключения компонентов
 
-<a id="chapter-2"></a>
-## Схемы
-![SCHEME](https://github.com/AlexGyver/microPong/blob/master/schemes/scheme1.jpg)
-![SCHEME](https://github.com/AlexGyver/microPong/blob/master/schemes/scheme3.jpg)
-
 <a id="chapter-3"></a>
 ## Материалы и компоненты
 ### Ссылки оставлены на магазины, с которых я закупаюсь уже не один год
