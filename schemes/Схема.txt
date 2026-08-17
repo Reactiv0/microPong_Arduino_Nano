@@ -1,0 +1,9 @@
+Arduino Nano    OLED 0.91"
+    A4      →    SDA
+    A5      →    SCL
+    3.3V    →    VCC
+    GND     →    GND
+
+Кнопки:
+    UP      →    D2 Через кнопку к GND
+    DOWN    →    D3 Через кнопку к GND
